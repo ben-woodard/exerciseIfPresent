@@ -1,3 +1,5 @@
+package com.coderscampus.exerciseIfPresent;
+
 public class SuspectLocation {
 
     private String country;
